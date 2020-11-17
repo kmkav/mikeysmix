@@ -82,7 +82,7 @@ html, body {
     margin-bottom: 16px;
 	/*border: 3px dashed red;*/
 	text-align: center;
-	filter: drop-shadow(5px 5px 5px #222)
+	filter: drop-shadow(5px 5px 5px #000)
 }
 
 h1 {
